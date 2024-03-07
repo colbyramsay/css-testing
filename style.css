@@ -31,13 +31,14 @@ body {
     height: 80px;
     background-color: yellow;
     border-radius: 18px;
-    margin: 36px;
+    margin: 72px;
     transition: 0.3s;
 }
 
 .square:hover {
     opacity: 0.5;
     cursor: wait;
+    transform: scale(1.8);
 }
 
 .rotated {
