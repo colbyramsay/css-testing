@@ -21,6 +21,9 @@ body {
     border-radius: 18px;
 }
 
+button {
+    border-style: none;
+}
 
 .square {
     display: flex;
